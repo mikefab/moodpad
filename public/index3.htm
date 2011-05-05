@@ -1,0 +1,62 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Mood Pad - Online Mood Pad</title>
+
+
+
+<script>
+var image1=new Image();
+image1.src="/images/1.jpg";
+var image2=new Image();
+image2.src="/images/2.jpg";
+var image3=new Image();
+image3.src="/images/3.jpg";
+</script>
+<script type="text/javascript">
+//variable that will increment through the images
+var step=1;
+function slideit(){
+//if browser does not support the image object, exit.
+	if (!document.images)
+		return
+	//	document.getElementById("slide").style.background=eval("url('/images/stars.jpg')image"+step+".src")
+	document.getElementById("slide").style.background="url('/images/" +step+".jpg')";
+ 	
+	if (step<3)
+		step++;
+	else
+		step=1;
+	
+//call function "slideit()" every 2.5 seconds
+	setTimeout("slideit()",2500);
+}
+
+</script>
+</head>
+<body text="#000000" style="background-color:#394900;" topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0" marginheight="0" marginwidth="0" onLoad="//document.textform.text.focus();">
+
+
+<div id="slide" name="slide" contentEditable="true" style="border: 1px solid white;">
+<!--	<textarea cols="100" rows="30" name="text" id="text" style="	background-size: 100%; border: 1px dotted #000000;width:800;height:500px;margin: 0px 0px 0px 0px;color:yellow;#background: url('/images/stars.jpg') no-repeat;">
+Welcome.</textarea>	
+-->
+asdf
+</div>
+
+<script>
+
+bwidth=innerWidth;
+bheight=innerHeight;
+//document.forms[0].elements[0].style.width = (bwidth);
+//document.forms[0].elements[0].style.height = (bheight-40);
+document.getElementById("slide").style.width = (bwidth);
+document.getElementById("slide").style.height = (bheight-40);
+slideit();
+
+</script>
+
+</body>
+</html>

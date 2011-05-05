@@ -1,0 +1,1312 @@
+
+
+Started GET "/javascript/tabs.js" for 127.0.0.1 at 2011-05-04 11:55:07 -0300
+
+ActionController::RoutingError (No route matches "/javascript/tabs.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.7ms)
+
+
+Started GET "/javascript/func.js" for 127.0.0.1 at 2011-05-04 11:55:14 -0300
+
+ActionController::RoutingError (No route matches "/javascript/func.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.1ms)
+
+
+Started GET "/images/editpad.gif" for 127.0.0.1 at 2011-05-04 11:55:14 -0300
+
+ActionController::RoutingError (No route matches "/images/editpad.gif"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.9ms)
+
+
+Started GET "/images/x2.gif" for 127.0.0.1 at 2011-05-04 11:55:14 -0300
+
+ActionController::RoutingError (No route matches "/images/x2.gif"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.8ms)
+
+
+Started GET "/javascript/warn.js" for 127.0.0.1 at 2011-05-04 11:55:14 -0300
+
+ActionController::RoutingError (No route matches "/javascript/warn.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (12.5ms)
+
+
+Started GET "/images/editpad.gif" for 127.0.0.1 at 2011-05-04 11:55:15 -0300
+
+ActionController::RoutingError (No route matches "/images/editpad.gif"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.9ms)
+
+
+Started GET "/images/x2.gif" for 127.0.0.1 at 2011-05-04 11:55:15 -0300
+
+ActionController::RoutingError (No route matches "/images/x2.gif"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.9ms)
+
+
+Started GET "/javascript/warn.js" for 127.0.0.1 at 2011-05-04 11:55:15 -0300
+
+ActionController::RoutingError (No route matches "/javascript/warn.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (27.7ms)
+
+
+Started GET "/download.html" for 127.0.0.1 at 2011-05-04 11:55:16 -0300
+
+ActionController::RoutingError (No route matches "/download.html"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (9.9ms)
+
+
+Started GET "/javascript/tabs.js" for 127.0.0.1 at 2011-05-04 11:55:48 -0300
+
+ActionController::RoutingError (No route matches "/javascript/tabs.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.0ms)
+
+
+Started GET "/images/x2.gif" for 127.0.0.1 at 2011-05-04 11:55:48 -0300
+
+ActionController::RoutingError (No route matches "/images/x2.gif"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.9ms)
+
+
+Started GET "/images/editpad.gif" for 127.0.0.1 at 2011-05-04 11:55:48 -0300
+
+ActionController::RoutingError (No route matches "/images/editpad.gif"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (3.5ms)
+
+
+Started GET "/javascript/func.js" for 127.0.0.1 at 2011-05-04 11:55:48 -0300
+
+ActionController::RoutingError (No route matches "/javascript/func.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.8ms)
+
+
+Started GET "/javascript/warn.js" for 127.0.0.1 at 2011-05-04 11:55:49 -0300
+
+ActionController::RoutingError (No route matches "/javascript/warn.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (3.4ms)
+
+
+Started GET "/images/x2.gif" for 127.0.0.1 at 2011-05-04 11:55:49 -0300
+
+ActionController::RoutingError (No route matches "/images/x2.gif"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (3.3ms)
+
+
+Started GET "/images/editpad.gif" for 127.0.0.1 at 2011-05-04 11:55:49 -0300
+
+ActionController::RoutingError (No route matches "/images/editpad.gif"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.7ms)
+
+
+Started GET "/javascript/warn.js" for 127.0.0.1 at 2011-05-04 11:55:49 -0300
+
+ActionController::RoutingError (No route matches "/javascript/warn.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.9ms)
+
+
+Started GET "/download.html" for 127.0.0.1 at 2011-05-04 11:55:49 -0300
+
+ActionController::RoutingError (No route matches "/download.html"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.3ms)
+
+
+Started GET "/javascript/tabs.js" for 127.0.0.1 at 2011-05-04 12:02:33 -0300
+
+ActionController::RoutingError (No route matches "/javascript/tabs.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (51.5ms)
+
+
+Started GET "/javascript/func.js" for 127.0.0.1 at 2011-05-04 12:02:33 -0300
+
+ActionController::RoutingError (No route matches "/javascript/func.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (6.2ms)
+
+
+Started GET "/javascript/warn.js" for 127.0.0.1 at 2011-05-04 12:02:33 -0300
+
+ActionController::RoutingError (No route matches "/javascript/warn.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (4.6ms)
+
+
+Started GET "/images/editpad.gif" for 127.0.0.1 at 2011-05-04 12:02:33 -0300
+
+ActionController::RoutingError (No route matches "/images/editpad.gif"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.7ms)
+
+
+Started GET "/images/x2.gif" for 127.0.0.1 at 2011-05-04 12:02:33 -0300
+
+ActionController::RoutingError (No route matches "/images/x2.gif"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (26.6ms)
+
+
+Started GET "/download.html" for 127.0.0.1 at 2011-05-04 12:02:33 -0300
+
+ActionController::RoutingError (No route matches "/download.html"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.0ms)
+
+
+Started GET "/javascript/func.js" for 127.0.0.1 at 2011-05-04 12:02:52 -0300
+
+ActionController::RoutingError (No route matches "/javascript/func.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.4ms)
+
+
+Started GET "/images/x2.gif" for 127.0.0.1 at 2011-05-04 12:02:52 -0300
+
+ActionController::RoutingError (No route matches "/images/x2.gif"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.7ms)
+
+
+Started GET "/javascript/tabs.js" for 127.0.0.1 at 2011-05-04 12:02:52 -0300
+
+ActionController::RoutingError (No route matches "/javascript/tabs.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (3.2ms)
+
+
+Started GET "/images/editpad.gif" for 127.0.0.1 at 2011-05-04 12:02:52 -0300
+
+ActionController::RoutingError (No route matches "/images/editpad.gif"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (3.3ms)
+
+
+Started GET "/javascript/warn.js" for 127.0.0.1 at 2011-05-04 12:02:52 -0300
+
+ActionController::RoutingError (No route matches "/javascript/warn.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (5.1ms)
+
+
+Started GET "/javascript/func.js" for 127.0.0.1 at 2011-05-04 12:02:52 -0300
+
+ActionController::RoutingError (No route matches "/javascript/func.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (3.1ms)
+
+
+Started GET "/images/x2.gif" for 127.0.0.1 at 2011-05-04 12:02:52 -0300
+
+ActionController::RoutingError (No route matches "/images/x2.gif"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.9ms)
+
+
+Started GET "/javascript/warn.js" for 127.0.0.1 at 2011-05-04 12:02:52 -0300
+
+ActionController::RoutingError (No route matches "/javascript/warn.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (4.7ms)
+
+
+Started GET "/images/editpad.gif" for 127.0.0.1 at 2011-05-04 12:02:52 -0300
+
+ActionController::RoutingError (No route matches "/images/editpad.gif"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (11.4ms)
+
+
+Started GET "/download.html" for 127.0.0.1 at 2011-05-04 12:02:52 -0300
+
+ActionController::RoutingError (No route matches "/download.html"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.7ms)
+
+
+Started GET "/javascript/tabs.js" for 127.0.0.1 at 2011-05-04 12:03:04 -0300
+
+ActionController::RoutingError (No route matches "/javascript/tabs.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.4ms)
+
+
+Started GET "/images/x2.gif" for 127.0.0.1 at 2011-05-04 12:03:04 -0300
+
+ActionController::RoutingError (No route matches "/images/x2.gif"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.0ms)
+
+
+Started GET "/javascript/func.js" for 127.0.0.1 at 2011-05-04 12:03:04 -0300
+
+ActionController::RoutingError (No route matches "/javascript/func.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.7ms)
+
+
+Started GET "/images/editpad.gif" for 127.0.0.1 at 2011-05-04 12:03:04 -0300
+
+ActionController::RoutingError (No route matches "/images/editpad.gif"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.9ms)
+
+
+Started GET "/javascript/warn.js" for 127.0.0.1 at 2011-05-04 12:03:04 -0300
+
+ActionController::RoutingError (No route matches "/javascript/warn.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.8ms)
+
+
+Started GET "/images/x2.gif" for 127.0.0.1 at 2011-05-04 12:03:04 -0300
+
+ActionController::RoutingError (No route matches "/images/x2.gif"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.0ms)
+
+
+Started GET "/download.html" for 127.0.0.1 at 2011-05-04 12:03:04 -0300
+
+ActionController::RoutingError (No route matches "/download.html"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.6ms)
+
+
+Started GET "/javascript/tabs.js" for 127.0.0.1 at 2011-05-04 12:03:12 -0300
+
+ActionController::RoutingError (No route matches "/javascript/tabs.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.7ms)
+
+
+Started GET "/images/editpad.gif" for 127.0.0.1 at 2011-05-04 12:03:12 -0300
+
+ActionController::RoutingError (No route matches "/images/editpad.gif"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.6ms)
+
+
+Started GET "/javascript/warn.js" for 127.0.0.1 at 2011-05-04 12:03:12 -0300
+
+ActionController::RoutingError (No route matches "/javascript/warn.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (5.8ms)
+
+
+Started GET "/javascript/func.js" for 127.0.0.1 at 2011-05-04 12:03:12 -0300
+
+ActionController::RoutingError (No route matches "/javascript/func.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (8.8ms)
+
+
+Started GET "/images/x2.gif" for 127.0.0.1 at 2011-05-04 12:03:12 -0300
+
+ActionController::RoutingError (No route matches "/images/x2.gif"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.7ms)
+
+
+Started GET "/images/editpad.gif" for 127.0.0.1 at 2011-05-04 12:03:12 -0300
+
+ActionController::RoutingError (No route matches "/images/editpad.gif"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.8ms)
+
+
+Started GET "/javascript/warn.js" for 127.0.0.1 at 2011-05-04 12:03:12 -0300
+
+ActionController::RoutingError (No route matches "/javascript/warn.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.1ms)
+
+
+Started GET "/download.html" for 127.0.0.1 at 2011-05-04 12:03:12 -0300
+
+ActionController::RoutingError (No route matches "/download.html"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.9ms)
+
+
+Started GET "/javascript/func.js" for 127.0.0.1 at 2011-05-04 12:03:18 -0300
+
+ActionController::RoutingError (No route matches "/javascript/func.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.1ms)
+
+
+Started GET "/images/x2.gif" for 127.0.0.1 at 2011-05-04 12:03:18 -0300
+
+ActionController::RoutingError (No route matches "/images/x2.gif"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.9ms)
+
+
+Started GET "/javascript/tabs.js" for 127.0.0.1 at 2011-05-04 12:03:18 -0300
+
+ActionController::RoutingError (No route matches "/javascript/tabs.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.0ms)
+
+
+Started GET "/javascript/warn.js" for 127.0.0.1 at 2011-05-04 12:03:18 -0300
+
+ActionController::RoutingError (No route matches "/javascript/warn.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.1ms)
+
+
+Started GET "/images/editpad.gif" for 127.0.0.1 at 2011-05-04 12:03:18 -0300
+
+ActionController::RoutingError (No route matches "/images/editpad.gif"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.1ms)
+
+
+Started GET "/javascript/func.js" for 127.0.0.1 at 2011-05-04 12:03:19 -0300
+
+ActionController::RoutingError (No route matches "/javascript/func.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (3.3ms)
+
+
+Started GET "/images/editpad.gif" for 127.0.0.1 at 2011-05-04 12:03:19 -0300
+
+ActionController::RoutingError (No route matches "/images/editpad.gif"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.7ms)
+
+
+Started GET "/images/x2.gif" for 127.0.0.1 at 2011-05-04 12:03:19 -0300
+
+ActionController::RoutingError (No route matches "/images/x2.gif"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.9ms)
+
+
+Started GET "/javascript/warn.js" for 127.0.0.1 at 2011-05-04 12:03:19 -0300
+
+ActionController::RoutingError (No route matches "/javascript/warn.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (109.5ms)
+
+
+Started GET "/download.html" for 127.0.0.1 at 2011-05-04 12:03:19 -0300
+
+ActionController::RoutingError (No route matches "/download.html"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.7ms)
+
+
+Started GET "/about.html" for 127.0.0.1 at 2011-05-04 12:08:46 -0300
+
+ActionController::RoutingError (No route matches "/about.html"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.1ms)
+
+
+Started GET "/javascript/func.js" for 127.0.0.1 at 2011-05-04 12:19:03 -0300
+
+ActionController::RoutingError (No route matches "/javascript/func.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.0ms)
+
+
+Started GET "/javascript/warn.js" for 127.0.0.1 at 2011-05-04 12:19:03 -0300
+
+ActionController::RoutingError (No route matches "/javascript/warn.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.8ms)
+
+
+Started GET "/javascript/tabs.js" for 127.0.0.1 at 2011-05-04 12:19:03 -0300
+
+ActionController::RoutingError (No route matches "/javascript/tabs.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (5.2ms)
+
+
+Started GET "/javascript/func.js" for 127.0.0.1 at 2011-05-04 12:19:04 -0300
+
+ActionController::RoutingError (No route matches "/javascript/func.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.5ms)
+
+
+Started GET "/javascript/warn.js" for 127.0.0.1 at 2011-05-04 12:19:04 -0300
+
+ActionController::RoutingError (No route matches "/javascript/warn.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.8ms)
+
+
+Started GET "/download.html" for 127.0.0.1 at 2011-05-04 12:19:04 -0300
+
+ActionController::RoutingError (No route matches "/download.html"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.8ms)
+
+
+Started GET "/javascript/tabs.js" for 127.0.0.1 at 2011-05-04 12:19:16 -0300
+
+ActionController::RoutingError (No route matches "/javascript/tabs.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.7ms)
+
+
+Started GET "/javascript/func.js" for 127.0.0.1 at 2011-05-04 12:19:16 -0300
+
+ActionController::RoutingError (No route matches "/javascript/func.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.0ms)
+
+
+Started GET "/javascript/warn.js" for 127.0.0.1 at 2011-05-04 12:19:16 -0300
+
+ActionController::RoutingError (No route matches "/javascript/warn.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (3.4ms)
+
+
+Started GET "/download.html" for 127.0.0.1 at 2011-05-04 12:19:17 -0300
+
+ActionController::RoutingError (No route matches "/download.html"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (8.6ms)
+
+
+Started GET "/images/editpad.gif" for 127.0.0.1 at 2011-05-04 12:19:30 -0300
+
+ActionController::RoutingError (No route matches "/images/editpad.gif"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.3ms)
+
+
+Started GET "/javascript/tabs.js" for 127.0.0.1 at 2011-05-04 12:19:30 -0300
+
+ActionController::RoutingError (No route matches "/javascript/tabs.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.8ms)
+
+
+Started GET "/javascript/func.js" for 127.0.0.1 at 2011-05-04 12:19:30 -0300
+
+ActionController::RoutingError (No route matches "/javascript/func.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.8ms)
+
+
+Started GET "/images/x2.gif" for 127.0.0.1 at 2011-05-04 12:19:30 -0300
+
+ActionController::RoutingError (No route matches "/images/x2.gif"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.0ms)
+
+
+Started GET "/javascript/warn.js" for 127.0.0.1 at 2011-05-04 12:19:30 -0300
+
+ActionController::RoutingError (No route matches "/javascript/warn.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.9ms)
+
+
+Started GET "/images/editpad.gif" for 127.0.0.1 at 2011-05-04 12:19:30 -0300
+
+ActionController::RoutingError (No route matches "/images/editpad.gif"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.9ms)
+
+
+Started GET "/download.html" for 127.0.0.1 at 2011-05-04 12:19:30 -0300
+
+ActionController::RoutingError (No route matches "/download.html"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.8ms)
+
+
+Started GET "/javascript/tabs.js" for 127.0.0.1 at 2011-05-04 12:19:36 -0300
+
+ActionController::RoutingError (No route matches "/javascript/tabs.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.9ms)
+
+
+Started GET "/images/x2.gif" for 127.0.0.1 at 2011-05-04 12:19:36 -0300
+
+ActionController::RoutingError (No route matches "/images/x2.gif"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.6ms)
+
+
+Started GET "/javascript/func.js" for 127.0.0.1 at 2011-05-04 12:19:36 -0300
+
+ActionController::RoutingError (No route matches "/javascript/func.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.8ms)
+
+
+Started GET "/javascript/warn.js" for 127.0.0.1 at 2011-05-04 12:19:36 -0300
+
+ActionController::RoutingError (No route matches "/javascript/warn.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.2ms)
+
+
+Started GET "/images/editpad.gif" for 127.0.0.1 at 2011-05-04 12:19:36 -0300
+
+ActionController::RoutingError (No route matches "/images/editpad.gif"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (3.7ms)
+
+
+Started GET "/images/x2.gif" for 127.0.0.1 at 2011-05-04 12:19:36 -0300
+
+ActionController::RoutingError (No route matches "/images/x2.gif"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.7ms)
+
+
+Started GET "/download.html" for 127.0.0.1 at 2011-05-04 12:19:36 -0300
+
+ActionController::RoutingError (No route matches "/download.html"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.9ms)
+
+
+Started GET "/images/x2.gif" for 127.0.0.1 at 2011-05-04 12:21:04 -0300
+
+ActionController::RoutingError (No route matches "/images/x2.gif"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.8ms)
+
+
+Started GET "/images/editpad.gif" for 127.0.0.1 at 2011-05-04 12:21:04 -0300
+
+ActionController::RoutingError (No route matches "/images/editpad.gif"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.0ms)
+
+
+Started GET "/javascript/warn.js" for 127.0.0.1 at 2011-05-04 12:21:05 -0300
+
+ActionController::RoutingError (No route matches "/javascript/warn.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.1ms)
+
+
+Started GET "/download.html" for 127.0.0.1 at 2011-05-04 12:21:05 -0300
+
+ActionController::RoutingError (No route matches "/download.html"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.7ms)
+
+
+Started GET "/images/x2.gif" for 127.0.0.1 at 2011-05-04 12:22:27 -0300
+
+ActionController::RoutingError (No route matches "/images/x2.gif"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (54.8ms)
+
+
+Started GET "/images/editpad.gif" for 127.0.0.1 at 2011-05-04 12:22:27 -0300
+
+ActionController::RoutingError (No route matches "/images/editpad.gif"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.7ms)
+
+
+Started GET "/javascript/warn.js" for 127.0.0.1 at 2011-05-04 12:22:27 -0300
+
+ActionController::RoutingError (No route matches "/javascript/warn.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (5.2ms)
+
+
+Started GET "/download.html" for 127.0.0.1 at 2011-05-04 12:22:27 -0300
+
+ActionController::RoutingError (No route matches "/download.html"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.0ms)
+
+
+Started GET "/javascript/warn.js" for 127.0.0.1 at 2011-05-04 12:23:05 -0300
+
+ActionController::RoutingError (No route matches "/javascript/warn.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.8ms)
+
+
+Started GET "/download.html" for 127.0.0.1 at 2011-05-04 12:23:05 -0300
+
+ActionController::RoutingError (No route matches "/download.html"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.3ms)
+
+
+Started GET "/images/x2.gif" for 127.0.0.1 at 2011-05-04 12:23:55 -0300
+
+ActionController::RoutingError (No route matches "/images/x2.gif"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.1ms)
+
+
+Started GET "/javascript/warn.js" for 127.0.0.1 at 2011-05-04 12:23:55 -0300
+
+ActionController::RoutingError (No route matches "/javascript/warn.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.9ms)
+
+
+Started GET "/images/editpad.gif" for 127.0.0.1 at 2011-05-04 12:23:55 -0300
+
+ActionController::RoutingError (No route matches "/images/editpad.gif"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.1ms)
+
+
+Started GET "/download.html" for 127.0.0.1 at 2011-05-04 12:23:55 -0300
+
+ActionController::RoutingError (No route matches "/download.html"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.7ms)
+
+
+Started GET "/images/editpad.gif" for 127.0.0.1 at 2011-05-04 12:24:01 -0300
+
+ActionController::RoutingError (No route matches "/images/editpad.gif"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.8ms)
+
+
+Started GET "/images/x2.gif" for 127.0.0.1 at 2011-05-04 12:24:01 -0300
+
+ActionController::RoutingError (No route matches "/images/x2.gif"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.7ms)
+
+
+Started GET "/javascript/warn.js" for 127.0.0.1 at 2011-05-04 12:24:01 -0300
+
+ActionController::RoutingError (No route matches "/javascript/warn.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.7ms)
+
+
+Started GET "/download.html" for 127.0.0.1 at 2011-05-04 12:24:01 -0300
+
+ActionController::RoutingError (No route matches "/download.html"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.8ms)
+
+
+Started GET "/images/x2.gif" for 127.0.0.1 at 2011-05-04 12:25:27 -0300
+
+ActionController::RoutingError (No route matches "/images/x2.gif"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.7ms)
+
+
+Started GET "/images/editpad.gif" for 127.0.0.1 at 2011-05-04 12:25:27 -0300
+
+ActionController::RoutingError (No route matches "/images/editpad.gif"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.0ms)
+
+
+Started GET "/images/editpad.gif" for 127.0.0.1 at 2011-05-04 12:25:27 -0300
+
+ActionController::RoutingError (No route matches "/images/editpad.gif"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.1ms)
+
+
+Started GET "/images/x2.gif" for 127.0.0.1 at 2011-05-04 12:25:27 -0300
+
+ActionController::RoutingError (No route matches "/images/x2.gif"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.7ms)
+
+
+Started GET "/images/x2.gif" for 127.0.0.1 at 2011-05-04 12:25:46 -0300
+
+ActionController::RoutingError (No route matches "/images/x2.gif"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.8ms)
+
+
+Started GET "/images/editpad.gif" for 127.0.0.1 at 2011-05-04 12:25:46 -0300
+
+ActionController::RoutingError (No route matches "/images/editpad.gif"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.8ms)
+
+
+Started GET "/images/editpad.gif" for 127.0.0.1 at 2011-05-04 12:27:19 -0300
+
+ActionController::RoutingError (No route matches "/images/editpad.gif"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.9ms)
+
+
+Started GET "/images/editpad.gif" for 127.0.0.1 at 2011-05-04 12:27:21 -0300
+
+ActionController::RoutingError (No route matches "/images/editpad.gif"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.8ms)
+
+
+Started GET "/images/editpad.gif" for 127.0.0.1 at 2011-05-04 12:28:54 -0300
+
+ActionController::RoutingError (No route matches "/images/editpad.gif"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.0ms)
+
+
+Started GET "/klematis.jpg" for 127.0.0.1 at 2011-05-04 17:45:48 -0300
+
+ActionController::RoutingError (No route matches "/klematis.jpg"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (10.7ms)
+
+
+Started GET "/klematis.jpg" for 127.0.0.1 at 2011-05-04 17:46:40 -0300
+
+ActionController::RoutingError (No route matches "/klematis.jpg"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (5.7ms)
+
+
+Started GET "/fadeslideshow.js" for 127.0.0.1 at 2011-05-04 18:21:33 -0300
+
+ActionController::RoutingError (No route matches "/fadeslideshow.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (3.4ms)
+
+
+Started GET "/fadeslideshow.js" for 127.0.0.1 at 2011-05-04 18:21:56 -0300
+
+ActionController::RoutingError (No route matches "/fadeslideshow.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.2ms)
+
+
+Started GET "/fadeslideshow.js" for 127.0.0.1 at 2011-05-04 18:22:50 -0300
+
+ActionController::RoutingError (No route matches "/fadeslideshow.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (37.7ms)
+
+
+Started GET "/loading.gif" for 127.0.0.1 at 2011-05-04 18:25:38 -0300
+
+ActionController::RoutingError (No route matches "/loading.gif"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (4.8ms)
+
+
+Started GET "/x.png" for 127.0.0.1 at 2011-05-04 18:25:38 -0300
+
+ActionController::RoutingError (No route matches "/x.png"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.3ms)
+
+
+Started GET "/restore.png" for 127.0.0.1 at 2011-05-04 18:25:38 -0300
+
+ActionController::RoutingError (No route matches "/restore.png"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (3.3ms)
+
+
+Started GET "/fadeslideshow.js" for 127.0.0.1 at 2011-05-04 18:29:24 -0300
+
+ActionController::RoutingError (No route matches "/fadeslideshow.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.7ms)
+
+
+Started GET "/fadeslideshow.js" for 127.0.0.1 at 2011-05-04 18:29:46 -0300
+
+ActionController::RoutingError (No route matches "/fadeslideshow.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.2ms)
+
+
+Started GET "/fadeslideshow.js" for 127.0.0.1 at 2011-05-04 18:30:03 -0300
+
+ActionController::RoutingError (No route matches "/fadeslideshow.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.8ms)
+
+
+Started GET "/fadeslideshow.js" for 127.0.0.1 at 2011-05-04 18:30:19 -0300
+
+ActionController::RoutingError (No route matches "/fadeslideshow.js"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.4ms)
+
+
+Started GET "/rooftops.jpg" for 127.0.0.1 at 2011-05-04 20:09:22 -0300
+
+ActionController::RoutingError (No route matches "/rooftops.jpg"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.2ms)
+
+
+Started GET "/darkwoods.jpg" for 127.0.0.1 at 2011-05-04 20:09:22 -0300
+
+ActionController::RoutingError (No route matches "/darkwoods.jpg"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.5ms)
+
+
+Started GET "/stars.jpg" for 127.0.0.1 at 2011-05-04 20:09:22 -0300
+
+ActionController::RoutingError (No route matches "/stars.jpg"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.1ms)
+
+
+Started GET "/1.jpg" for 127.0.0.1 at 2011-05-04 20:20:54 -0300
+
+ActionController::RoutingError (No route matches "/1.jpg"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (14.0ms)
+
+
+Started GET "/3.jpg" for 127.0.0.1 at 2011-05-04 20:20:54 -0300
+
+ActionController::RoutingError (No route matches "/3.jpg"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.0ms)
+
+
+Started GET "/2.jpg" for 127.0.0.1 at 2011-05-04 20:20:54 -0300
+
+ActionController::RoutingError (No route matches "/2.jpg"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.4ms)
+
+
+Started GET "/3.jpg" for 127.0.0.1 at 2011-05-04 20:21:33 -0300
+
+ActionController::RoutingError (No route matches "/3.jpg"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.8ms)
+
+
+Started GET "/2.jpg" for 127.0.0.1 at 2011-05-04 20:21:33 -0300
+
+ActionController::RoutingError (No route matches "/2.jpg"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.3ms)
+
+
+Started GET "/1.jpg" for 127.0.0.1 at 2011-05-04 20:21:33 -0300
+
+ActionController::RoutingError (No route matches "/1.jpg"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.0ms)
+
+
+Started GET "/1.jpg" for 127.0.0.1 at 2011-05-04 20:22:13 -0300
+
+ActionController::RoutingError (No route matches "/1.jpg"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.8ms)
+
+
+Started GET "/2.jpg" for 127.0.0.1 at 2011-05-04 20:22:13 -0300
+
+ActionController::RoutingError (No route matches "/2.jpg"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.8ms)
+
+
+Started GET "/3.jpg" for 127.0.0.1 at 2011-05-04 20:22:13 -0300
+
+ActionController::RoutingError (No route matches "/3.jpg"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.7ms)
+
+
+Started GET "/images/stars.jpg" for 127.0.0.1 at 2011-05-04 20:36:05 -0300
+
+ActionController::RoutingError (No route matches "/images/stars.jpg"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.8ms)
+
+
+Started GET "/images/stars.jpg" for 127.0.0.1 at 2011-05-04 20:36:07 -0300
+
+ActionController::RoutingError (No route matches "/images/stars.jpg"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.9ms)
+
+
+Started GET "/images/stars.jpg" for 127.0.0.1 at 2011-05-04 20:36:10 -0300
+
+ActionController::RoutingError (No route matches "/images/stars.jpg"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.5ms)
+
+
+Started GET "/images/stars.jpg" for 127.0.0.1 at 2011-05-04 20:36:12 -0300
+
+ActionController::RoutingError (No route matches "/images/stars.jpg"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.7ms)
+
+
+Started GET "/images/stars.jpg" for 127.0.0.1 at 2011-05-04 20:36:15 -0300
+
+ActionController::RoutingError (No route matches "/images/stars.jpg"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (4.9ms)
+
+
+Started GET "/bgimage.jpg" for 127.0.0.1 at 2011-05-04 22:40:30 -0300
+
+ActionController::RoutingError (No route matches "/bgimage.jpg"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (83.6ms)
+
+
+Started GET "/bgimage.jpg" for 127.0.0.1 at 2011-05-04 22:42:21 -0300
+
+ActionController::RoutingError (No route matches "/bgimage.jpg"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (30.2ms)
+
+
+Started GET "/bgimage.jpg" for 127.0.0.1 at 2011-05-04 22:43:06 -0300
+
+ActionController::RoutingError (No route matches "/bgimage.jpg"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (20.9ms)
+
+
+Started GET "/bgimage.jpg" for 127.0.0.1 at 2011-05-04 22:43:52 -0300
+
+ActionController::RoutingError (No route matches "/bgimage.jpg"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (25.3ms)
+
+
+Started GET "/bgimage.jpg" for 127.0.0.1 at 2011-05-04 22:44:42 -0300
+
+ActionController::RoutingError (No route matches "/bgimage.jpg"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.5ms)
+
+
+Started GET "/bgimage.jpg" for 127.0.0.1 at 2011-05-04 22:44:45 -0300
+
+ActionController::RoutingError (No route matches "/bgimage.jpg"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.1ms)
+
+
+Started GET "/bgimage.jpg" for 127.0.0.1 at 2011-05-04 22:46:07 -0300
+
+ActionController::RoutingError (No route matches "/bgimage.jpg"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (27.8ms)
+
+
+Started GET "/bgimage.jpg" for 127.0.0.1 at 2011-05-04 22:46:20 -0300
+
+ActionController::RoutingError (No route matches "/bgimage.jpg"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.9ms)
+
+
+Started GET "/bgimage.jpg" for 127.0.0.1 at 2011-05-04 22:46:48 -0300
+
+ActionController::RoutingError (No route matches "/bgimage.jpg"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.3ms)
+
+
+Started GET "/bgimage.jpg" for 127.0.0.1 at 2011-05-04 22:46:55 -0300
+
+ActionController::RoutingError (No route matches "/bgimage.jpg"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (13.0ms)
+
+
+Started GET "/bgimage.jpg" for 127.0.0.1 at 2011-05-04 22:48:03 -0300
+
+ActionController::RoutingError (No route matches "/bgimage.jpg"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (25.1ms)
+
+
+Started GET "/bgimage.jpg" for 127.0.0.1 at 2011-05-04 22:48:46 -0300
+
+ActionController::RoutingError (No route matches "/bgimage.jpg"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (25.0ms)
+
+
+Started GET "/bgimage.jpg" for 127.0.0.1 at 2011-05-04 22:49:49 -0300
+
+ActionController::RoutingError (No route matches "/bgimage.jpg"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (22.6ms)
+
+
+Started GET "/bgimage.jpg" for 127.0.0.1 at 2011-05-04 22:58:07 -0300
+
+ActionController::RoutingError (No route matches "/bgimage.jpg"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.0ms)
+
+
+Started GET "/bgimage.jpg" for 127.0.0.1 at 2011-05-04 22:58:22 -0300
+
+ActionController::RoutingError (No route matches "/bgimage.jpg"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.8ms)
+
+
+Started GET "/bgimage.jpg" for 127.0.0.1 at 2011-05-04 22:58:41 -0300
+
+ActionController::RoutingError (No route matches "/bgimage.jpg"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (9.5ms)
+
+
+Started GET "/bgimage.jpg" for 127.0.0.1 at 2011-05-04 22:59:04 -0300
+
+ActionController::RoutingError (No route matches "/bgimage.jpg"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.1ms)
+
+
+Started GET "/bgimage.jpg" for 127.0.0.1 at 2011-05-04 22:59:46 -0300
+
+ActionController::RoutingError (No route matches "/bgimage.jpg"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.3ms)
+
+
+Started GET "/bgimage.jpg" for 127.0.0.1 at 2011-05-04 23:00:04 -0300
+
+ActionController::RoutingError (No route matches "/bgimage.jpg"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (6.3ms)
+
+
+Started GET "/bgimage.jpg" for 127.0.0.1 at 2011-05-04 23:00:23 -0300
+
+ActionController::RoutingError (No route matches "/bgimage.jpg"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (10.2ms)
+
+
+Started GET "/index/1.jpg" for 127.0.0.1 at 2011-05-04 23:04:57 -0300
+
+ActionController::RoutingError (No route matches "/index/1.jpg"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.3ms)
+
+
+Started GET "/index/1.jpg" for 127.0.0.1 at 2011-05-04 23:05:12 -0300
+
+ActionController::RoutingError (No route matches "/index/1.jpg"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.5ms)
+
+
+Started GET "/index/1.jpg" for 127.0.0.1 at 2011-05-04 23:05:24 -0300
+
+ActionController::RoutingError (No route matches "/index/1.jpg"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.0ms)
+
+
+Started GET "/index3htm" for 127.0.0.1 at 2011-05-05 01:58:09 -0300
+
+ActionController::RoutingError (No route matches "/index3htm"):
+  
+
+Rendered /Users/macbook/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.7/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.9ms)

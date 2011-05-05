@@ -1,0 +1,111 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" >
+<html>
+<head>
+<title></title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script type="text/javascript">
+if (document.all||document.getElementById){
+//	document.write('<style id="tmpStyle" type="text/css">#pic {-moz-opacity:0.00;filter:alpha(opacity=0);opacity:0;-khtml-opacity:0;}<\/style>')
+	var objG, degree=fadeAssist=0;
+if (document.all&&typeof document.documentElement!=='undefined')
+	document.write('<!--[if GTE IE 5]><script type="text/javascript">fadeAssist=function (obj, degree){try {obj.filters.alpha.opacity=degree}catch(e){obj.style.filter="alpha(opacity="+degree+")"}}<'+'\/'+'script><![endif]-->')
+}
+
+ max_degree=50;
+ min_degree=0;
+ increment=5;
+ time_span=500;
+ turn_span=5000;
+function fadepic(obj){
+
+	objG=obj
+	objG= document.getElementById('pic');
+	objG.style.display="inline";
+	objG.style.background="url(images/1.jpg) repeat-y";
+    objG.style.backgroundSize="100%";
+
+	if (!document.getElementById&&!document.all)
+		return;
+	var tS=document.all? document.all['tmpStyle'] : document.getElementById('tmpStyle')
+	if (degree<max_degree){
+		degree+=increment;
+		if (objG.filters&&objG.filters[0]&&fadeAssist)
+			fadeAssist(objG, degree)
+		else if (typeof objG.style.MozOpacity=='string')
+			objG.style.MozOpacity=degree/101
+		else if (typeof objG.style.KhtmlOpacity=='string')
+			objG.style.KhtmlOpacity=degree/100
+		else if (typeof objG.style.opacity=='string'&&!objG.filters)
+			objG.style.opacity=degree/101
+		else
+			tS.disabled=true
+			setTimeout("fadepic(objG)", time_span)
+		}
+	else{
+		setTimeout("fadeOutPic(objG);",turn_span)
+//		tS.disabled=true
+	}
+}
+
+function fadeOutPic(obj){
+
+	objG=obj
+	objG= document.getElementById('pic');
+
+	if (!document.getElementById&&!document.all)
+		return;
+	var tS=document.all? document.all['tmpStyle'] : document.getElementById('tmpStyle')
+	if (degree>min_degree){
+		degree-=increment;
+		if (objG.filters&&objG.filters[0]&&fadeAssist)
+			fadeAssist(objG, degree)
+		else if (typeof objG.style.MozOpacity=='string')
+			objG.style.MozOpacity=degree/101
+		else if (typeof objG.style.KhtmlOpacity=='string')
+			objG.style.KhtmlOpacity=degree/100
+		else if (typeof objG.style.opacity=='string'&&!objG.filters)
+			objG.style.opacity=degree/101
+		else
+			tS.disabled=true
+			setTimeout("fadeOutPic(objG)", time_span)
+			
+	}
+	else{
+//		alert(document.body.scrollTop);
+		objG.style.top=document.body.scrollTop+"px";
+		setTimeout("fadepic(objG);",turn_span)
+//		tS.disabled=true
+	}
+}
+
+
+
+</script>
+</head>
+<body style="background-color:black;">
+
+
+<!--<img id="pic" onload="fadepic(this);" src="/images/1.jpg">
+-->
+	<div id="pic" name="pic"  height="2000%" style="height:2000px;position:absolute;background: url(images/2.jpg) repeat-y;background-size: 100%;display:inline;">
+</div>
+<!--	<div id ="pad" name="pad" height="2000%" contentEditable="true" onClick="fadepic(document.getElementById('pic'));" style="height:9000px;position:absolute;color:yellow;">
+-->
+		<textarea id ="pad" name="pad" height="2000%"  style="position:absolute;color:yellow;background-color:transparent;" onClick="fadepic(document.getElementById('pic'));">
+
+</textarea>
+
+<script>
+bwidth=innerWidth;
+bheight=innerHeight;
+//document.forms[0].elements[0].style.width = (bwidth);
+//document.forms[0].elements[0].style.height = (bheight-40);
+document.getElementById("pic").style.width = (bwidth);
+document.getElementById("pic").style.height = (bheight-40);
+document.getElementById("pad").style.width = (bwidth);
+document.getElementById("pad").style.height = (bheight-40);
+
+</script>
+</body>
+</html>
+

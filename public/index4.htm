@@ -1,0 +1,127 @@
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style type="text/css">
+div.background
+  {
+  background-color:green;
+  width:500px;
+  height:250px;
+  background:url(/images/1.jpg) repeat;
+  border:2px solid black;
+  filter:alpha(opacity=60);
+  /* CSS3 standard */
+  opacity:0.1;
+
+  }
+div.transbox
+  {
+	background-color:transparent;
+  color:black;
+  width:400px;
+  height:180px;
+  margin:30px 50px;
+  border:1px solid black;
+
+  }
+div.transbox p
+  {
+	  color:black;
+
+  margin:30px 40px;
+  font-weight:bold;
+  }
+</style>
+</head>
+
+<script type="text/javascript">
+if (document.all||document.getElementById){
+//	document.write('<style id="tmpStyle" type="text/css">#pic {-moz-opacity:0.00;filter:alpha(opacity=0);opacity:0;-khtml-opacity:0;}<\/style>')
+	var objG, degree=fadeAssist=0;
+if (document.all&&typeof document.documentElement!=='undefined')
+	document.write('<!--[if GTE IE 5]><script type="text/javascript">fadeAssist=function (obj, degree){try {obj.filters.alpha.opacity=degree}catch(e){obj.style.filter="alpha(opacity="+degree+")"}}<'+'\/'+'script><![endif]-->')
+}
+
+ max_degree=50;
+ min_degree=0;
+ increment=5;
+ time_span=100;
+ turn_span=100;
+function fadepic(obj){
+
+	objG= obj;
+	if (!document.getElementById&&!document.all)
+		return;
+	var tS=document.all? document.all['tmpStyle'] : document.getElementById('tmpStyle')
+
+	if (degree<max_degree){
+		degree+=increment;
+		if (objG.filters&&objG.filters[0]&&fadeAssist)
+			fadeAssist(objG, degree)
+		else if (typeof objG.style.MozOpacity=='string')
+			objG.style.MozOpacity=degree/101
+		else if (typeof objG.style.KhtmlOpacity=='string')
+	//alert("2");
+			objG.style.KhtmlOpacity=degree/100
+		else if (typeof objG.style.opacity=='string'&&!objG.filters)
+
+			objG.style.opacity=degree/101
+		else
+			tS.disabled=true
+			setTimeout("fadepic(objG)", time_span)
+		}
+	else{
+		setTimeout("fadeOutPic(objG);",turn_span)
+//		tS.disabled=true
+	}
+}
+
+function fadeOutPic(obj){
+
+	objG=obj
+	objG= document.getElementById('background');
+
+	if (!document.getElementById&&!document.all)
+		return;
+	var tS=document.all? document.all['tmpStyle'] : document.getElementById('tmpStyle')
+	if (degree>min_degree){
+		degree-=increment;
+		if (objG.filters&&objG.filters[0]&&fadeAssist)
+			fadeAssist(objG, degree)
+		else if (typeof objG.style.MozOpacity=='string')
+			objG.style.MozOpacity=degree/101
+		else if (typeof objG.style.KhtmlOpacity=='string')
+			objG.style.KhtmlOpacity=degree/100
+		else if (typeof objG.style.opacity=='string'&&!objG.filters)
+			objG.style.opacity=degree/101
+		else
+			tS.disabled=true
+			setTimeout("fadeOutPic(objG)", time_span)
+			
+	}
+	else{
+	
+		setTimeout("fadepic(objG);",turn_span)
+//		tS.disabled=true
+	}
+}
+</script>
+
+
+<body>
+	<div id="background" class="background" style="position:absolute;">
+		</div>
+	<div class="transbox" contentEditable="true" style="background-color:green;position:absolute;" onClick="//fadepic(document.getElementById('background'));">
+	<p>This is some text that is placed in the transparent box.
+	This is some text that is placed in the transparent box.
+	This is some text that is placed in the transparent box.
+	This is some text that is placed in the transparent box.
+	This is some text that is placed in the transparent box.
+	</p>
+	</div>
+
+
+
+
+</body>
+</html>
